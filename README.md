@@ -10,6 +10,12 @@ This project provides a framework for generating a web-based interface for Unix 
 
 This repository is designed to work with files generated from the [builder tool](http://algo.tcnj.edu/tool2web/WebAppForCommandLineUtils/) and helps deploy the final web application.
 
+
+# Tool Guides
+Use the links below to access guides on how to use the tool. If you never used the tool before start at step 1 in the Getting started section of this ReadMe.md.
+* [Parameter Form Guide](/docs/ParameterFormGuide.md)
+* [Builder Guide](/docs/BuilderToolGuide.md)
+
 ---
 
 # Getting Started
